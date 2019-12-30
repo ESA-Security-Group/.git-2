@@ -29,7 +29,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>linuxTweaks/README.md at master · ryanpcmcquen/linuxTweaks · GitHub</title>
+  <title>linuxTweaks/README.md at 786110d4082884dee40a891c2c08f2a5bd77b871 · ryanpcmcquen/linuxTweaks · GitHub</title>
     <meta name="description" content=":penguin: A whole host of Linux tricks I have picked up over the years, in plain text. Some of them are even useful. - ryanpcmcquen/linuxTweaks">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -42,7 +42,7 @@
   
   
 
-    <meta name="request-id" content="4EB4:3BB7C:4863BE0:6E215AB:5E07C094" data-pjax-transient>
+    <meta name="request-id" content="CF3F:1B667:9DD62A7:EF0DA02:5E093A5F" data-pjax-transient>
 
 
 
@@ -54,7 +54,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-    <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="4EB4:3BB7C:4863BE0:6E215AB:5E07C094" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="7547414982795742781" />
+    <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="CF3F:1B667:9DD62A7:EF0DA02:5E093A5F" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="7547414982795742781" />
 
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
@@ -74,23 +74,23 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="Yjc2YjhiZWFjZWY4MWViYmFhM2I4NmY2N2RlZWY0NjQ0MGFlZjAxNGZkNTc2MzJiZjZhZjI5ZTM5ZGYxMjM2Mnx7InJlbW90ZV9hZGRyZXNzIjoiOC40My4yMjQuNTAiLCJyZXF1ZXN0X2lkIjoiNEVCNDozQkI3Qzo0ODYzQkUwOjZFMjE1QUI6NUUwN0MwOTQiLCJ0aW1lc3RhbXAiOjE1Nzc1NjYzNTcsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="M2I4NmEyZDMyZjFmMDE0MDA0OGQxMWJlY2JkNTU5ZDM5YWQ5MjUyYmMzYzhlMTQ1NjUxYzRjY2Q2NDU4N2Y3Znx7InJlbW90ZV9hZGRyZXNzIjoiMjE3LjIwOC4yMDIuNzYiLCJyZXF1ZXN0X2lkIjoiQ0YzRjoxQjY2Nzo5REQ2MkE3OkVGMERBMDI6NUUwOTNBNUYiLCJ0aW1lc3RhbXAiOjE1Nzc2NjMwNzIsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS">
 
-    <meta name="html-safe-nonce" content="d2787268c051c9f9041f272c03a62d8ff3da8ceb">
+    <meta name="html-safe-nonce" content="7a5282a625758492d567a0aab5488428db5cd8a4">
 
   <meta http-equiv="x-pjax-version" content="61f8c219e8739359a3bf9c46bc342ad6">
   
 
-      <link href="https://github.com/ryanpcmcquen/linuxTweaks/commits/master.atom" rel="alternate" title="Recent Commits to linuxTweaks:master" type="application/atom+xml">
+      <link href="https://github.com/ryanpcmcquen/linuxTweaks/commits/786110d4082884dee40a891c2c08f2a5bd77b871.atom" rel="alternate" title="Recent Commits to linuxTweaks:786110d4082884dee40a891c2c08f2a5bd77b871" type="application/atom+xml">
 
   <meta name="go-import" content="github.com/ryanpcmcquen/linuxTweaks git https://github.com/ryanpcmcquen/linuxTweaks.git">
 
   <meta name="octolytics-dimension-user_id" content="772937" /><meta name="octolytics-dimension-user_login" content="ryanpcmcquen" /><meta name="octolytics-dimension-repository_id" content="12793129" /><meta name="octolytics-dimension-repository_nwo" content="ryanpcmcquen/linuxTweaks" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="12793129" /><meta name="octolytics-dimension-repository_network_root_nwo" content="ryanpcmcquen/linuxTweaks" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/ryanpcmcquen/linuxTweaks/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/ryanpcmcquen/linuxTweaks/blob/786110d4082884dee40a891c2c08f2a5bd77b871/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -144,7 +144,7 @@
         <div class="d-flex flex-items-center">
             <a href="/join?source=header-repo"
               class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:&quot;1757269488.1577078333&quot;,&quot;originating_request_id&quot;:&quot;4EB4:3BB7C:4863BE0:6E215AB:5E07C094&quot;,&quot;originating_url&quot;:&quot;https://github.com/ryanpcmcquen/linuxTweaks/blob/master/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e25b100b28ad3f7c99aa56446ed8f794e850a0e1c8161158fef3db238507c4d5"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:&quot;1757269488.1577078333&quot;,&quot;originating_request_id&quot;:&quot;CF3F:1B667:9DD62A7:EF0DA02:5E093A5F&quot;,&quot;originating_url&quot;:&quot;https://github.com/ryanpcmcquen/linuxTweaks/blob/786110d4082884dee40a891c2c08f2a5bd77b871/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4cfdecdeb261da8ad27b5674b5f513354eb8b8cd151f9e94f3a36a3abe84bb5d"
               data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
               Sign&nbsp;up
             </a>
@@ -284,7 +284,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=qZt938uvZ+F1uNYmZO39se5NDbs5DKbazHDEfl03ej+F1CnjCpvRCMH6yZHQOjJOoEMuusp84LFQITXxuUAImw=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=YGYzu6Fl2ZGrLXq3HNnv73pyuRcsRTN42pggv+gHLKHqY5JiaQ87pGr3x35b3Z6Ij0Gjf9Q445tRO7bV4flrgA=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -409,15 +409,15 @@
 
           </div>
 
-        <a href="/login?return_to=%2Fryanpcmcquen%2FlinuxTweaks%2Fblob%2Fmaster%2FREADME.md"
+        <a href="/login?return_to=%2Fryanpcmcquen%2FlinuxTweaks%2Fblob%2F786110d4082884dee40a891c2c08f2a5bd77b871%2FREADME.md"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:&quot;1757269488.1577078333&quot;,&quot;originating_request_id&quot;:&quot;4EB4:3BB7C:4863BE0:6E215AB:5E07C094&quot;,&quot;originating_url&quot;:&quot;https://github.com/ryanpcmcquen/linuxTweaks/blob/master/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6abc8eb05a87a8f121d96f2b264fd709597b23516d5fb2ce1060647551f55555"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:&quot;1757269488.1577078333&quot;,&quot;originating_request_id&quot;:&quot;CF3F:1B667:9DD62A7:EF0DA02:5E093A5F&quot;,&quot;originating_url&quot;:&quot;https://github.com/ryanpcmcquen/linuxTweaks/blob/786110d4082884dee40a891c2c08f2a5bd77b871/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5aabbb2febaefea21154253364aae0718706f7d4e76ce419d5e3dc61ff30a888"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
           <a href="/join?source=header-repo&amp;source_repo=ryanpcmcquen%2FlinuxTweaks"
             class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:&quot;1757269488.1577078333&quot;,&quot;originating_request_id&quot;:&quot;4EB4:3BB7C:4863BE0:6E215AB:5E07C094&quot;,&quot;originating_url&quot;:&quot;https://github.com/ryanpcmcquen/linuxTweaks/blob/master/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6abc8eb05a87a8f121d96f2b264fd709597b23516d5fb2ce1060647551f55555"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:&quot;1757269488.1577078333&quot;,&quot;originating_request_id&quot;:&quot;CF3F:1B667:9DD62A7:EF0DA02:5E093A5F&quot;,&quot;originating_url&quot;:&quot;https://github.com/ryanpcmcquen/linuxTweaks/blob/786110d4082884dee40a891c2c08f2a5bd77b871/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5aabbb2febaefea21154253364aae0718706f7d4e76ce419d5e3dc61ff30a888"
             data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
             Sign&nbsp;up
           </a>
@@ -464,7 +464,7 @@
 
   <li>
     
-  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:&quot;1757269488.1577078333&quot;,&quot;originating_request_id&quot;:&quot;4EB4:3BB7C:4863BE0:6E215AB:5E07C094&quot;,&quot;originating_url&quot;:&quot;https://github.com/ryanpcmcquen/linuxTweaks/blob/master/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="08f7fe0b2fe67d237192d6282865ca4613b3b439ceb2f2846daa8e5de0b41ec3" href="/login?return_to=%2Fryanpcmcquen%2FlinuxTweaks">
+  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:&quot;1757269488.1577078333&quot;,&quot;originating_request_id&quot;:&quot;CF3F:1B667:9DD62A7:EF0DA02:5E093A5F&quot;,&quot;originating_url&quot;:&quot;https://github.com/ryanpcmcquen/linuxTweaks/blob/786110d4082884dee40a891c2c08f2a5bd77b871/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c971f218f0cdb2c748dfa4aac309185d020c3dae0dec4461c3f51765063a5095" href="/login?return_to=%2Fryanpcmcquen%2FlinuxTweaks">
     <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
     Watch
 </a>    <a class="social-count" href="/ryanpcmcquen/linuxTweaks/watchers"
@@ -475,20 +475,20 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:12793129,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:&quot;1757269488.1577078333&quot;,&quot;originating_request_id&quot;:&quot;4EB4:3BB7C:4863BE0:6E215AB:5E07C094&quot;,&quot;originating_url&quot;:&quot;https://github.com/ryanpcmcquen/linuxTweaks/blob/master/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fd269feeb27f3b01ade0a8db5e2b777a18e5f927f566ab57fe2b907c52cad355" href="/login?return_to=%2Fryanpcmcquen%2FlinuxTweaks">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:12793129,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:&quot;1757269488.1577078333&quot;,&quot;originating_request_id&quot;:&quot;CF3F:1B667:9DD62A7:EF0DA02:5E093A5F&quot;,&quot;originating_url&quot;:&quot;https://github.com/ryanpcmcquen/linuxTweaks/blob/786110d4082884dee40a891c2c08f2a5bd77b871/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d58051ddf6a65a669820feae4d692072b8d04df87c219626b21eac8fddb01f54" href="/login?return_to=%2Fryanpcmcquen%2FlinuxTweaks">
       <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
       Star
 </a>
     <a class="social-count js-social-count" href="/ryanpcmcquen/linuxTweaks/stargazers"
-      aria-label="52 users starred this repository">
-      52
+      aria-label="53 users starred this repository">
+      53
     </a>
 
   </li>
 
   <li>
-      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:12793129,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:&quot;1757269488.1577078333&quot;,&quot;originating_request_id&quot;:&quot;4EB4:3BB7C:4863BE0:6E215AB:5E07C094&quot;,&quot;originating_url&quot;:&quot;https://github.com/ryanpcmcquen/linuxTweaks/blob/master/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1a8b5caf0dcd7be56802024834f9d35949927c77774fdcec16df4ec47d5c1f8f" href="/login?return_to=%2Fryanpcmcquen%2FlinuxTweaks">
+      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:12793129,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:&quot;1757269488.1577078333&quot;,&quot;originating_request_id&quot;:&quot;CF3F:1B667:9DD62A7:EF0DA02:5E093A5F&quot;,&quot;originating_url&quot;:&quot;https://github.com/ryanpcmcquen/linuxTweaks/blob/786110d4082884dee40a891c2c08f2a5bd77b871/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="458c2259a11e185bf7a81107babeeeaf999ea0649360c7ff8aa19be2f2550715" href="/login?return_to=%2Fryanpcmcquen%2FlinuxTweaks">
         <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
         Fork
 </a>
@@ -615,19 +615,19 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ryanpcmcquen/linuxTweaks/blob/0fb7b0559774ed01659892c3b411c22d01b919bb/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ryanpcmcquen/linuxTweaks/blob/786110d4082884dee40a891c2c08f2a5bd77b871/README.md">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v21:6e4350f1f610d666c485f06612f3970c -->
           <div class="signup-prompt-bg rounded-1">
       <div class="signup-prompt p-4 text-center mb-4 rounded-1">
         <div class="position-relative">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="M8kKLJITTxwtB9npuG8VIekY92ukLGKDdL8x4hSicmW1DGUKzZx/MSbqmAqPIG3sBvabaUxRpTwAXvuKT+kz9w==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="KzDxdm63wiP674+EV723B47zzR9G3XuFL7rR8+7gKe2IR2hmIDT79NoV4iKcRfgGv4rlirPN+IwCmUI/ucsRjA==" />
             <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
               Dismiss
             </button>
 </form>          <h3 class="pt-2">Join GitHub today</h3>
           <p class="col-6 mx-auto">GitHub is home to over 40 million developers working together to host and review code, manage projects, and build software together.</p>
-          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:&quot;1757269488.1577078333&quot;,&quot;originating_request_id&quot;:&quot;4EB4:3BB7C:4863BE0:6E215AB:5E07C094&quot;,&quot;originating_url&quot;:&quot;https://github.com/ryanpcmcquen/linuxTweaks/blob/master/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8fd15e64392667a5ea489ce45567774e4c8c489063f2000ffa481902040ba94e" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-blob-show&amp;source_repo=ryanpcmcquen%2FlinuxTweaks">Sign up</a>
+          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:&quot;1757269488.1577078333&quot;,&quot;originating_request_id&quot;:&quot;CF3F:1B667:9DD62A7:EF0DA02:5E093A5F&quot;,&quot;originating_url&quot;:&quot;https://github.com/ryanpcmcquen/linuxTweaks/blob/786110d4082884dee40a891c2c08f2a5bd77b871/README.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3b1c9d4e364fafc91423050e1227410db6024ef66dbdc5404094b81686a43679" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-blob-show&amp;source_repo=ryanpcmcquen%2FlinuxTweaks">Sign up</a>
         </div>
       </div>
     </div>
@@ -640,11 +640,11 @@
   <summary class="btn btn-sm select-menu-button css-truncate"
            data-hotkey="w"
            title="Switch branches or tags">
-    <i>Branch:</i>
-    <span class="css-truncate-target" data-menu-button>master</span>
+    <i>Tree:</i>
+    <span class="css-truncate-target" data-menu-button>786110d408</span>
   </summary>
 
-  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/ryanpcmcquen/linuxTweaks/refs/master/README.md?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/ryanpcmcquen/linuxTweaks/refs/786110d4082884dee40a891c2c08f2a5bd77b871/README.md?source_action=show&amp;source_controller=blob" preload>
     <include-fragment class="select-menu-loading-overlay anim-pulse">
       <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
     </include-fragment>
@@ -652,7 +652,7 @@
 </details>
 
         <div class="BtnGroup flex-shrink-0 d-md-none">
-          <a href="/ryanpcmcquen/linuxTweaks/find/master"
+          <a href="/ryanpcmcquen/linuxTweaks/find/786110d4082884dee40a891c2c08f2a5bd77b871"
                 class="js-pjax-capture-input btn btn-sm BtnGroup-item"
                 data-pjax
                 data-hotkey="t">
@@ -664,11 +664,11 @@
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/ryanpcmcquen/linuxTweaks"><span>linuxTweaks</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/ryanpcmcquen/linuxTweaks/tree/786110d4082884dee40a891c2c08f2a5bd77b871"><span>linuxTweaks</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
-        <a href="/ryanpcmcquen/linuxTweaks/find/master"
+        <a href="/ryanpcmcquen/linuxTweaks/find/786110d4082884dee40a891c2c08f2a5bd77b871"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
@@ -684,7 +684,7 @@
 
 
 
-    <include-fragment src="/ryanpcmcquen/linuxTweaks/contributors/master/README.md" class="Box Box--condensed commit-loader">
+    <include-fragment src="/ryanpcmcquen/linuxTweaks/contributors/786110d4082884dee40a891c2c08f2a5bd77b871/README.md" class="Box Box--condensed commit-loader">
       <div class="Box-body bg-blue-light f6">
         Fetching contributors&hellip;
       </div>
@@ -711,9 +711,9 @@
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/ryanpcmcquen/linuxTweaks/raw/master/README.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/ryanpcmcquen/linuxTweaks/blame/master/README.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/ryanpcmcquen/linuxTweaks/commits/master/README.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/ryanpcmcquen/linuxTweaks/raw/786110d4082884dee40a891c2c08f2a5bd77b871/README.md">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/ryanpcmcquen/linuxTweaks/blame/786110d4082884dee40a891c2c08f2a5bd77b871/README.md">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/ryanpcmcquen/linuxTweaks/commits/786110d4082884dee40a891c2c08f2a5bd77b871/README.md">History</a>
     </div>
 
 
